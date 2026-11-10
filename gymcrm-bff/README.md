@@ -55,5 +55,3 @@ API Gateway (AWS): ver `gateway/README.md`.
 ## Testes
 `npm test` · `npm run test:unit` · `npm run test:e2e` (BFF completo contra 3 servidores falsos) · `npm run test:arch`
 
-## Links (preencher após o deploy)
-BFF: [URL] · Swagger: [URL]/swagger · Gateway: [URL] · Docker Hub: [URL] · Repositório: [URL]
